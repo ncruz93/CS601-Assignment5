@@ -1,0 +1,18 @@
+{
+    "firstName": "Nickolas",
+    "lastName": "Cruz",
+    "formerEducation": {
+        "School": "Boston University",
+        "program/major": "Psychology",
+        "degree type": "BA",
+        "Year Conferred": "2015"
+    },
+    "ongoingEducation": {
+        "School": "Boston University",
+        "program/major": "Computer Science",
+        "degree type": "MA",
+        "Year Conferred": "2024"
+    }
+       
+    
+}
